@@ -1,9 +1,24 @@
-# Hi there! 👋 I'm [Your Name]  
-- 🚀 Web Developer | HTML | CSS | JavaScript |
-- 🌱 Currently learning WordPress development and PHP.  
+# Hi there! 👋 I'm Gunnwook Ahn
 
-**Languages & Tools:**  
-![HTML5](https://img.shields.io/badge/HTML5-orange) ![CSS3](https://img.shields.io/badge/CSS3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![PHP](https://img.shields.io/badge/PHP-blueviolet) ![WordPress](https://img.shields.io/badge/WordPress-blue)
+🚀 **Freelance Web Developer** | HTML | CSS | JavaScript | PHP  
+🌱 **Currently Learning:** Advanced PHP Development  
+💼 **Available for Freelance Projects** | Let's collaborate!  
+📫 **Contact Me:** [your-email@example.com] | [Portfolio](https:/ahndev.com) | [LinkedIn](https://linkedin.com/in/gunnwook-ahn-5401bb355/)  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=agw76638&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agw76638&layout=compact)
+---
+
+## 🛠️ Tech Stack & Tools  
+
+![HTML5](https://img.shields.io/badge/HTML5-orange) ![CSS3](https://img.shields.io/badge/CSS3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+---
+
+## 📊 GitHub Stats  
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)  
+
+---
+
+## 🤝 Let's Connect!  
+💡 Looking for a web developer? Let's create something amazing together!  
