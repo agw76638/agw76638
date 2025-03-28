@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Gunnwook Ahn
 
 🚀 **Freelance Web Developer** | HTML | CSS | JavaScript |  
-🌱 **Currently Learning:** Frontend Development  
+🌱 **Currently Learning:** | Wordpress | PHP |  
 💼 **Available for Freelance Projects** | Let's collaborate!  
-📫 **Contact Me:** [your-email@example.com] | [Portfolio](https://ahndev.com) | [LinkedIn](https://linkedin.com/in/gunnwook-ahn-5401bb355/)  
+📫 **Contact Me:** [gunnwook@ahndev.com] | [Portfolio](https://ahndev.com) | [LinkedIn](https://linkedin.com/in/gunnwook-ahn-5401bb355/)  
 
 ---
 
