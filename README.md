@@ -1,24 +1,17 @@
-# Hi there! 👋 I'm Gunnwook Ahn
+# Hi, I'm Gunnwook Ahn 👋
 
-🚀 **Freelance Web Developer** | HTML | CSS | JavaScript |  
-🌱 **Currently Learning:** | Wordpress | PHP |  
-💼 **Available for Freelance Projects** | Let's collaborate!  
-📫 **Contact Me:** [gunnwook@ahndev.com] | [Portfolio](https://ahndev.com) | [LinkedIn](https://linkedin.com/in/gunnwook-ahn-5401bb355/)  
+Aspiring frontend developer passionate about building things from scratch.
 
----
+## 🌱 Currently Learning
+- TypeScript
 
-## 🛠️ Tech Stack & Tools  
+## 🛠 Tech Stack
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-![HTML5](https://img.shields.io/badge/HTML5-orange) ![CSS3](https://img.shields.io/badge/CSS3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+## 📌 Projects
+- [🔭 APOD App](https://github.com/agw76638/apod-app)
 
----
-
-## 📊 GitHub Stats  
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=agw76638&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agw76638&layout=compact)  
-
----
-
-## 🤝 Let's Connect!  
-💡 Looking for a web developer? Let's create something amazing together!  
+## 📝 Blog
+- [Velog](https://velog.io/@agw76638)
