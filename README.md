@@ -1,9 +1,9 @@
 # Hi, I'm Gunnwook Ahn 👋
 
-Aspiring frontend developer passionate about building things from scratch.
+Aspiring frontend developer passionate about building things.
 
 ## 🌱 Currently Learning
-- TypeScript
+- Frontend Bootcamp
 
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
