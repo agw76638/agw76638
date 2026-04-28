@@ -12,6 +12,3 @@ Aspiring frontend developer passionate about building things.
 
 ## 📌 Projects
 - [🔭 APOD App](https://github.com/agw76638/apod-app)
-
-## 📝 Blog
-- [Velog](https://velog.io/@agw76638)
